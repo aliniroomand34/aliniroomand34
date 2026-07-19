@@ -32,7 +32,7 @@ width="100%"
 
 # 👋 About Me
 
-💻 I'm a **Frontend Engineer** with **6+ years of experience** building scalable, high-performance, and user-focused web applications using **React, TypeScript, and Next.js**.
+💻 I'm a **Frontend Engineer** with **~5 years of experience** building scalable, high-performance, and user-focused web applications using **React, TypeScript, and Next.js**.
 
 🚀 I'm passionate about crafting clean architectures, writing maintainable code, and delivering modern user experiences.
 
