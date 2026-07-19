@@ -122,10 +122,10 @@ const Ali Niroomand = {
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=aliniroomand34&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=aliniroomand34&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliniroomand34&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliniroomand34&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
