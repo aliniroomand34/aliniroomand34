@@ -30,16 +30,22 @@ width="100%"
 ## 👨‍💻 About Me
 
 ```typescript
-const Ali Niroomand = {
+const aliNiroomand = {
   role: "Senior Frontend Engineer",
-  location: "Iran",
 
-  languages: ["JavaScript", "TypeScript"],
+  experience: "6+ years",
+
+  languages: [
+    "JavaScript",
+    "TypeScript"
+  ],
 
   frontend: [
     "React",
+    "React 19",
     "Next.js",
-    "Redux",
+    "Redux Toolkit",
+    "TanStack Query",
     "Tailwind CSS",
     "Sass"
   ],
@@ -47,22 +53,35 @@ const Ali Niroomand = {
   backend: [
     "Node.js",
     "Express",
-    "GraphQL",
+    "FastAPI",
     "MongoDB",
     "PostgreSQL",
     "Redis"
   ],
 
-  devOps: [
+  tools: [
     "Docker",
     "Git",
-    "GitHub Actions"
+    "GitHub Actions",
+    "WebSockets",
+    "REST APIs"
+  ],
+
+  currentlyBuilding: [
+    "Admin-Mate"
   ],
 
   currentlyLearning: [
     "System Design",
     "Cloud",
     "AI Agents"
+  ],
+
+  interestedIn: [
+    "Scalable Web Applications",
+    "AI-powered Products",
+    "Developer Experience",
+    "Frontend Architecture"
   ]
 };
 ```
