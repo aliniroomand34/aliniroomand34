@@ -35,11 +35,13 @@ width="100%"
 
 # 👋 About Me
 
-I'm a **Frontend Engineer** with **6+ years of experience** building scalable, performant, and user-focused web applications using **React, TypeScript, and Next.js**.
+💻 I'm a **Frontend Engineer** with **6+ years of experience** building scalable, high-performance, and user-focused web applications using **React, TypeScript, and Next.js**.
 
-I enjoy designing clean frontend architectures, improving application performance, and creating intuitive user experiences.
+🚀 I'm passionate about crafting clean architectures, writing maintainable code, and delivering modern user experiences.
 
-Currently, I'm building **Admin-Mate**, a modern admin software, while deepening my knowledge in **System Design**, **Cloud**, and **AI**.
+🛠️ Currently building **Admin-Mate**, a modern admin software, while expanding my expertise in **System Design**, **Cloud**, and **AI Agents**.
+
+🌍 Always excited to learn new technologies, contribute to impactful products, and collaborate with talented teams worldwide.
 
 ```typescript
 const aliNiroomand = {
@@ -49,7 +51,8 @@ const aliNiroomand = {
 
   languages: [
     "JavaScript",
-    "TypeScript"
+    "TypeScript",
+    "Python"
   ],
 
   frontend: [
@@ -65,6 +68,8 @@ const aliNiroomand = {
   backend: [
     "Node.js",
     "Express",
+    "Python",
+    "FastAPI",
     "MongoDB",
     "PostgreSQL"
   ],
@@ -74,14 +79,21 @@ const aliNiroomand = {
     "PostgreSQL"
   ],
 
+  devOps: [
+    "Docker",
+    "GitHub Actions",
+    "CI/CD"
+  ],
+
   tools: [
     "Git",
     "GitHub",
-    "Docker",
-    "GitHub Actions",
     "REST APIs",
     "WebSockets",
-    "CI/CD"
+    "Alembic",
+    "VS Code",
+    "Postman",
+    "Figma"
   ],
 
   currentlyBuilding: [
@@ -125,9 +137,9 @@ A modern admin software focused on scalability, performance, and maintainability
 - 🎨 Tailwind CSS
 - 🔄 Redux Toolkit
 - ⚡ TanStack Query
-- 🔐 Authentication
+- 🔐 Authentication & Authorization
 - 📊 Dashboard & Analytics
-- 📱 Responsive Design
+- 📱 Fully Responsive
 
 </td>
 
@@ -135,7 +147,12 @@ A modern admin software focused on scalability, performance, and maintainability
 
 ### 🚧 More Projects Coming Soon
 
-I'm actively working on new open-source projects focused on modern frontend development, scalable architecture, and AI-powered applications.
+I'm actively building new open-source projects focused on:
+
+- ⚛️ Modern React Ecosystem
+- 🏗️ Frontend Architecture
+- 🤖 AI-powered Applications
+- ☁️ Cloud Technologies
 
 Stay tuned 🚀
 
@@ -163,7 +180,7 @@ Stay tuned 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi"/>
 
 </p>
 
@@ -183,7 +200,7 @@ Stay tuned 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux"/>
 
 </p>
 
@@ -203,41 +220,15 @@ Stay tuned 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=aliniroomand34&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliniroomand34&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=aliniroomand34&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aliniroomand34/aliniroomand34/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
