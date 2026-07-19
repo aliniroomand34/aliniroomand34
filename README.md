@@ -5,8 +5,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient
 width="100%"
 />
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Scalable+Frontend+Applications;Open+to+International+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+AI-Assisted+Development;Building+Production-Ready+Frontend+Systems;Open+to+International+Opportunities)](https://git.io/typing-svg)
 
 <br>
 
@@ -32,11 +31,11 @@ width="100%"
 
 # 👋 About Me
 
-💻 I'm a **Frontend Engineer** with **~5 years of experience** building scalable, high-performance, and user-focused web applications using **React, TypeScript, and Next.js**.
+💻 I'm a **Frontend Engineer** with **5+ years of experience** building scalable, high-performance, user-focused web applications with **React and TypeScript**.
 
-🚀 I'm passionate about crafting clean architectures, writing maintainable code, and delivering modern user experiences.
+🚀 My core strength is React architecture and clean, maintainable frontend systems — and I deliberately use AI-assisted tooling (Cursor) to move faster and extend into adjacent stacks I don't use daily.
 
-🛠️ Currently building **Admin-Mate**, a modern admin software, while expanding my expertise in **System Design**, **Cloud**, and **AI Agents**.
+🛠️ Currently building **Admin-Mate** as founder/sole engineer — a full-stack multi-tenant SaaS platform — while expanding into **System Design**, **Cloud**, and **AI Agents**.
 
 🌍 Always excited to learn new technologies, contribute to impactful products, and collaborate with talented teams worldwide.
 
@@ -44,70 +43,54 @@ width="100%"
 const aliNiroomand = {
   role: "Frontend Engineer",
 
-  experience: "6+ years",
+  experience: "5+ years",
 
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "Python"
-  ],
+  coreStack: {
+    description: "Daily, independent mastery — no AI required",
+    frontend: [
+      "React",
+      "React 19",
+      "TypeScript",
+      "JavaScript",
+      "Redux Toolkit",
+      "TanStack Query",
+      "Tailwind CSS",
+      "Sass",
+      "Vite"
+    ]
+  },
 
-  frontend: [
-    "React",
-    "React 19",
-    "Next.js",
-    "Redux Toolkit",
-    "TanStack Query",
-    "Tailwind CSS",
-    "Sass"
-  ],
+  fullStack: {
+    description: "Built and shipped hands-on, using an AI-accelerated workflow",
+    backend: [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "WebSockets",
+      "Alembic"
+    ],
+    infra: [
+      "Docker",
+      "GitHub Actions",
+      "CI/CD"
+    ]
+  },
 
-  backend: [
-    "Node.js",
-    "Express",
-    "Python",
-    "FastAPI",
-    "MongoDB",
-    "PostgreSQL"
-  ],
+  exploring: {
+    description: "AI-assisted exploration — limited hands-on depth, honestly labeled",
+    stack: ["Next.js", "MongoDB", "Node.js", "Express"]
+  },
 
-  databases: [
-    "MongoDB",
-    "PostgreSQL"
-  ],
+  currentlyBuilding: ["Admin-Mate"],
 
-  devOps: [
-    "Docker",
-    "GitHub Actions",
-    "CI/CD"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "REST APIs",
-    "WebSockets",
-    "Alembic",
-    "VS Code",
-    "Postman",
-    "Figma"
-  ],
-
-  currentlyBuilding: [
-    "Admin-Mate"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Cloud",
-    "AI Agents"
-  ],
+  currentlyLearning: ["System Design", "Cloud", "AI Agents"],
 
   interestedIn: [
     "Frontend Architecture",
     "Performance Optimization",
     "Scalable Web Applications",
-    "AI-powered Products"
+    "AI-Assisted Engineering Workflows"
   ]
 };
 ```
@@ -124,19 +107,18 @@ const aliNiroomand = {
 
 ### 🛠 Admin-Mate
 
-A modern admin software focused on scalability, performance, and maintainability.
+Independent full-stack SaaS platform, built solo as founder — including through a period with no reliable internet, using locally-hosted AI models to keep shipping.
 
 #### Tech Stack
 
-- ⚛️ React 19
-- ▲ Next.js
+- ⚛️ React 19 + Vite
 - 📘 TypeScript
 - 🎨 Tailwind CSS
-- 🔄 Redux Toolkit
-- ⚡ TanStack Query
-- 🔐 Authentication & Authorization
-- 📊 Dashboard & Analytics
-- 📱 Fully Responsive
+- 🚀 FastAPI + PostgreSQL + Redis
+- 🔌 WebSockets (real-time updates)
+- 🐳 Docker Compose + CI/CD
+- 🧩 Chrome Extension (Manifest V3)
+- 🖥️ Desktop-focused by design (client requirement)
 
 </td>
 
@@ -148,7 +130,7 @@ I'm actively building new open-source projects focused on:
 
 - ⚛️ Modern React Ecosystem
 - 🏗️ Frontend Architecture
-- 🤖 AI-powered Applications
+- 🤖 AI-Assisted Development Workflows
 - ☁️ Cloud Technologies
 
 Stay tuned 🚀
@@ -163,41 +145,27 @@ Stay tuned 🚀
 
 # 🛠 Tech Stack
 
-## 🎨 Frontend
+## 🎨 Core Frontend — Daily, Independent Mastery
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,vite"/>
 
 </p>
 
----
-
-## ⚙️ Backend
+## ⚙️ Full-Stack & Backend — Built Hands-On, AI-Accelerated Workflow
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,githubactions,git"/>
 
 </p>
 
----
-
-## 🗄️ Databases
+## 🧪 Exploring — AI-Assisted, Limited Depth
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
-
-</p>
-
----
-
-## ☁️ DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git"/>
+<img src="https://skillicons.dev/icons?i=nextjs,mongodb,nodejs,express"/>
 
 </p>
 
@@ -222,5 +190,3 @@ Stay tuned 🚀
 </p>
 
 ---
-
-
