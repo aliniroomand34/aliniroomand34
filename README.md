@@ -180,7 +180,7 @@ Stay tuned 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi"/>
 
 </p>
 
@@ -200,7 +200,7 @@ Stay tuned 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git"/>
 
 </p>
 
