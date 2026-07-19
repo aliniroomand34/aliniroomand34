@@ -1,5 +1,10 @@
-## Hi there 👋
-![header]https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=Input%20text&reversal=true&fontColor=0D1117
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20👋%20I'm%20Ali&fontSize=45&fontColor=ffffff&desc=Senior%20Frontend%20Engineer&descAlignY=65"
+    width="100%"
+  />
+</p>
 <!--
 **aliniroomand34/aliniroomand34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
