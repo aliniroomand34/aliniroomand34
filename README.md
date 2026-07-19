@@ -5,9 +5,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient
 width="100%"
 />
 
-<img src="https://komarev.com/ghpvc/?username=aliniroomand34&style=for-the-badge&color=blue"/>
-
-<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Scalable+Frontend+Applications;Open+to+International+Opportunities)](https://git.io/typing-svg)
 
