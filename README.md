@@ -226,9 +226,4 @@ Stay tuned 🚀
 
 ---
 
-<div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=aliniroomand34&theme=tokyonight&hide_border=true"/>
-
-</div>
