@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&customColorList=24,12,2&text=Hi%20👋%20I'm%20Ali&fontColor=ffffff&reversal=true"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,2,20&text=Hi%20I'm%20Ali&fontColor=ffffff&fontSize=48&animation=fadeIn"
     width="100%"
   />
 </p>
