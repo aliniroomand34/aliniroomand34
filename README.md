@@ -27,47 +27,45 @@ width="100%"
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```ts
+```typescript
 const ali = {
-    role: "Senior Frontend Engineer",
+  role: "Senior Frontend Engineer",
+  location: "Iran",
 
-    location: "Iran",
+  languages: ["JavaScript", "TypeScript"],
 
-    languages: ["JavaScript", "TypeScript"],
+  frontend: [
+    "React",
+    "Next.js",
+    "Redux",
+    "Tailwind CSS",
+    "Sass"
+  ],
 
-    frontend: [
-        "React",
-        "Next.js",
-        "Redux",
-        "Tailwind CSS",
-        "Sass"
-    ],
+  backend: [
+    "Node.js",
+    "Express",
+    "GraphQL",
+    "MongoDB",
+    "PostgreSQL",
+    "Redis"
+  ],
 
-    backend: [
-        "Node.js",
-        "Express",
-        "GraphQL",
-        "MongoDB",
-        "PostgreSQL",
-        "Redis"
-    ],
+  devOps: [
+    "Docker",
+    "Git",
+    "GitHub Actions"
+  ],
 
-    devops: [
-        "Docker",
-        "Git",
-        "GitHub Actions"
-    ],
-
-    currentlyLearning: [
-        "System Design",
-        "Cloud",
-        "AI Agents"
-    ]
+  currentlyLearning: [
+    "System Design",
+    "Cloud",
+    "AI Agents"
+  ]
 };
 ```
-
 ---
 
 # 🛠 Tech Stack
